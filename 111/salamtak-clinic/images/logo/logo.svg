@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="شعار عيادة سلامتك">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17324D"/>
+      <stop offset="1" stop-color="#0f2438"/>
+    </linearGradient>
+  </defs>
+  <!-- خلفية مدوّرة -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#lg)"/>
+  <!-- قلب -->
+  <path d="M32 46 C20 38 14 30 14 23 C14 17 19 13 24 13 C27.5 13 30.5 15 32 18 C33.5 15 36.5 13 40 13 C45 13 50 17 50 23 C50 30 44 38 32 46 Z"
+        fill="#FFFFFF" opacity="0.95"/>
+  <!-- نبض -->
+  <polyline points="16,32 22,32 25,24 29,40 33,28 37,32 48,32"
+            fill="none" stroke="#DCE8EF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- علامة طبية (صليب) -->
+  <rect x="29" y="20" width="6" height="14" rx="1.5" fill="#17324D"/>
+  <rect x="25" y="24" width="14" height="6" rx="1.5" fill="#17324D"/>
+</svg>

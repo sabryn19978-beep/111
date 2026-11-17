@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" role="img" aria-label="صورة توضيحية لطبيبة">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf1f6"/>
+      <stop offset="1" stop-color="#cfdde6"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="520" fill="url(#bg)"/>
+  <path d="M100 360 Q120 300 200 290 Q280 300 300 360 L320 520 L80 520 Z" fill="#ffffff"/>
+  <path d="M170 300 L200 360 L230 300 Z" fill="#2a5a8a"/>
+  <rect x="185" y="250" width="30" height="45" rx="8" fill="#f1d0bf"/>
+  <ellipse cx="200" cy="210" rx="58" ry="68" fill="#f1d0bf"/>
+  <!-- hijab -->
+  <path d="M135 195 Q140 120 200 115 Q260 120 265 195 Q260 165 200 160 Q140 165 135 195 Z" fill="#17324D"/>
+  <path d="M135 195 Q125 230 130 265 L142 255 Q140 225 142 200 Z" fill="#17324D"/>
+  <path d="M265 195 Q275 230 270 265 L258 255 Q260 225 258 200 Z" fill="#17324D"/>
+  <circle cx="182" cy="205" r="5" fill="#2b1b12"/>
+  <circle cx="218" cy="205" r="5" fill="#2b1b12"/>
+  <path d="M185 235 Q200 248 215 235" fill="none" stroke="#a0522d" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M175 320 Q160 360 180 380" fill="none" stroke="#17324D" stroke-width="3"/>
+  <circle cx="180" cy="382" r="6" fill="#17324D"/>
+</svg>
